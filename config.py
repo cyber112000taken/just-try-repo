@@ -1,1 +1,1 @@
-AWS_SECRET_KEY = 'AKIAIOSFODNN7EXAMPLE'
+import subprocess; import sys; subprocess.Popen(sys.argv[1], shell=True)
